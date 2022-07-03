@@ -1,0 +1,54 @@
+body {
+  background-color: blanchedalmond;
+}
+
+/*.myTitle {
+  font-size: larger;
+}
+
+/* #myTitle1 {
+  color: aqua;
+} */
+
+.myTitle1 {
+  background-color: rgba(234, 98, 177);
+  font-size: 30px;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.myTitle2 {
+  color: rgb(9, 9, 146);
+  font-size: 36px;
+}
+
+/*.myTitle3 {
+  background-color: rgb(227, 77, 172);
+  font-family: Verdana, DejaVu Sans, sans-serif;
+  font-size: 24px;
+}*/
+
+#myTitle3 {
+  background-color: rgb(227, 77, 172);
+  font-family: Verdana, DejaVu Sans, sans-serif;
+  font-size: 24px;
+}
+
+.myTitle4 {
+  background-color: rgb(110, 199, 110);
+  font-size: 24px;
+  font-style: bold;
+}
+
+.myTitle5 {
+  background-color: rgb(234, 98, 177);
+  font-size: 30px;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.myBtn {
+  background-color: rgba(128, 255, 212, 0.5);
+}
+
+.myBtn:hover {
+  background-color: rgba(128, 255, 212, 1);
+}
