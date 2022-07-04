@@ -66,3 +66,15 @@ body {
   font-size: 28px;
   /*text-align: right;*/
 }
+
+.avatar.proportioned {
+  width: 300px;
+  text-align: center;
+  height: auto;
+}
+
+.avatar.distorted {
+  width: 200px;
+  text-align: center;
+  height: 400px;
+}
