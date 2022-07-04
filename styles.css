@@ -51,3 +51,18 @@ body {
 .myBtn:hover {
   background-color: rgba(128, 255, 212, 1);
 }
+
+.surprisehere {
+  background-color: #2a2929;
+  font-family: "Helvetica", sans-serif, Times New Roman, Times, serif;
+  font-size: 28px;
+  /*text-align: center;*/
+  color: rgb(220, 209, 209);
+}
+
+#seethis {
+  background-color: rgb(230, 230, 75);
+  font-family: "Times New Roman", Helvetica, sans-serif;
+  font-size: 28px;
+  /*text-align: right;*/
+}
